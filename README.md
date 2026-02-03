@@ -242,22 +242,6 @@ Next-generation writing companion with ghost text completions, inline editing, a
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=charankumarreddywork-dot&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charankumarreddywork-dot&layout=compact&langs_count=8&theme=tokyonight"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=charankumarreddywork-dot&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-</div>
-
----
 
 ## 🎓 Education
 
@@ -314,3 +298,4 @@ I'm always excited to collaborate on innovative projects, especially in **Medica
 ⭐ **Star my repositories if you find them useful!** ⭐
 
 </div>
+
