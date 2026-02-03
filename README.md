@@ -18,30 +18,40 @@
 
 ## 🚀 About Me
 
-```python
-class Charan:
-    def __init__(self):
-        self.name = "Sai Charan Kumar Reddy Boggula"
-        self.role = "AI/ML Engineer & Data Scientist"
-        self.education = {
-            "masters": "M.S. Data Science @ Montclair State University, NJ",
-            "bachelors": "B.Tech ECE @ GITAM, Visakhapatnam"
-        }
-        self.interests = ["Medical AI", "Deep Learning", "RAG Systems", "Vision-Language Models"]
-        self.currently_learning = ["Advanced LLM Fine-tuning", "Multi-Agent Systems"]
+<table>
+<tr>
+<td>
 
-    def say_hi(self):
-        print("Thanks for visiting my profile! Let's build something amazing together!")
+🎓 **M.S. Data Science** at Montclair State University, NJ, USA
 
-me = Charan()
-me.say_hi()
-```
+🎓 **B.Tech Electronics & Communications** at GITAM, Visakhapatnam, India
 
-- 🎓 **M.S. Data Science** at Montclair State University, NJ, USA
-- 🎓 **B.Tech Electronics & Communications** at GITAM, Visakhapatnam, India
-- 🔭 Currently working on **AI-powered healthcare solutions**
-- 🌱 Exploring **Vision-Language Models** and **RAG architectures**
-- 👯 Open to collaborate on **Medical AI** and **LLM applications**
+🔭 Currently working on **AI-powered healthcare solutions**
+
+🌱 Exploring **Vision-Language Models** and **RAG architectures**
+
+👯 Open to collaborate on **Medical AI** and **LLM applications**
+
+💡 Passionate about building AI that makes a real impact in healthcare
+
+</td>
+<td>
+
+**Interests:**
+
+![Medical AI](https://img.shields.io/badge/🏥-Medical_AI-blue?style=flat-square)
+![Deep Learning](https://img.shields.io/badge/🧠-Deep_Learning-purple?style=flat-square)
+![RAG Systems](https://img.shields.io/badge/📚-RAG_Systems-green?style=flat-square)
+![VLMs](https://img.shields.io/badge/👁️-Vision_Language_Models-orange?style=flat-square)
+
+**Currently Learning:**
+
+![LLM Fine-tuning](https://img.shields.io/badge/🔧-LLM_Fine--tuning-red?style=flat-square)
+![Multi-Agent Systems](https://img.shields.io/badge/🤖-Multi--Agent_Systems-teal?style=flat-square)
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -243,7 +253,7 @@ Next-generation writing companion with ghost text completions, inline editing, a
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=charankumarreddywork-dot&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=charankumarreddywork-dot&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
